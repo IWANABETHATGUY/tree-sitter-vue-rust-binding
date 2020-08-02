@@ -1,0 +1,3 @@
+[submodule "tree-sitter-vue"] 
+path = tree-sitter-vue
+url = https://github.com/ikatyang/tree-sitter-vue

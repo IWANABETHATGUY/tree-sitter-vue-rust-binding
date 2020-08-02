@@ -65,7 +65,7 @@ dependencies = [
 ]
 
 [[package]]
-name = "tree-sitter-binding-demo"
+name = "tree-sitter-vue-rust-binding"
 version = "0.1.0"
 dependencies = [
  "cc",
